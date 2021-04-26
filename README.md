@@ -1,7 +1,7 @@
 # 2048-text-based
 README
 
-This game is a remake of the popular online game 2048. The original game uses a 4x4 grid of squares
+This game is a text-based remake of the popular online game 2048. The original game uses a 4x4 grid of squares
 with numbers that are multiples of 2. These squares can be moved around with the arrow keys. When you
 select a direction, the blocks will go as far in that direction as they can go before running into the
 edge of the 4x4 grid or other blocks. 
@@ -17,7 +17,3 @@ interface is text in the command line. Additionally, movement is based on inputs
 want the blocks to move in, not the arrow keys. Up is u, down is d, left is l, and right is r. Finally,
 the command line is result of printing the lists directly to the screen. After trying a few different 
 interfaces, I decided that printing these directly was the most time saving and efficient UI going forward.
-
-If you would like to modify my code, please fork it from my repository.
-
--Joshua Bohner
